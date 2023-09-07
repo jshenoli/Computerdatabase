@@ -1,7 +1,7 @@
-# Computerdatabase Website
+![image](https://github.com/jshenoli/Computerdatabase/assets/46641954/c976d4ac-dc0f-45ed-a426-e81ff69911f6)# Computerdatabase Website
 Test Cases for Computer database
 
-Welcome to the Computer Database Application! This repository contains the testcases for the computer database system.
+Welcome to the Computer Database Application ! This repository contains the testcases for the computer database system.
 
 ## Introduction
 
@@ -13,3 +13,10 @@ I have written a comprehensive set of test cases to ensure the correctness of th
       -adding new computers
       -deleting computers
       -Editing existing computer information
+
+## TestCase Structure - below elements are included in the testcases
+            Test Id	Test Case	Prerequisites	Test steps 	Test Data	Expected Result	Post Condition	Actual result 	Test type	Priority 	Test Status	 Comments
+
+#CreatedBy - Shenoli Jayasinghe
+
+
