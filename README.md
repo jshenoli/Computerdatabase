@@ -17,6 +17,15 @@ I have written a comprehensive set of test cases to ensure the correctness of th
 ## TestCase Structure - below elements are included in the testcases
             Test Id	Test Case	Prerequisites	Test steps 	Test Data	Expected Result	Post Condition	Actual result 	Test type	Priority 	Test Status	 Comments
 
+## Test Execution details
+Website -https://computer-database.gatling.io/computers
+Browser - Google Chrome(Need to check cross browser)
+Execute funtional tests as per documented steps (Priority is added)
+Regression testing will be conducted after each system update to ensure the system
+
+
+
+
 #CreatedBy - Shenoli Jayasinghe
 
 
